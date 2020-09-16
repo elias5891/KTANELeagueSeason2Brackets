@@ -225,7 +225,7 @@ var bombTemplates;
 
 $(function(){
     // Load navbar
-    $("#navbar-placeholder").load("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/nav.html");
+    $("#navbar-placeholder").load("https://raw.githubusercontent.com/elias5891/KTANELeagueSeason2Brackets/master/nav.html");
 
     /*
     var json = $.getJSON("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/ktane-league.json").then(
@@ -244,19 +244,19 @@ $(function(){
         players = data["players"];
         if (--dataCount === 0) setupPage();
     });
-    $.getJSON("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/data/teams.json").then(function(data, status, jqXHR) {
+    $.getJSON("https://raw.githubusercontent.com/elias5891/KTANELeagueSeason2Brackets/master/data/teams.json").then(function(data, status, jqXHR) {
         teams = data["teams"];
         if (--dataCount === 0) setupPage();
     });
-    $.getJSON("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/data/categories.json").then(function(data, status, jqXHR) {
+    $.getJSON("https://raw.githubusercontent.com/elias5891/KTANELeagueSeason2Brackets/master/data/categories.json").then(function(data, status, jqXHR) {
         categories = data["categories"];
         if (--dataCount === 0) setupPage();
     });
-    $.getJSON("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/data/matches.json").then(function(data, status, jqXHR) {
+    $.getJSON("https://raw.githubusercontent.com/elias5891/KTANELeagueSeason2Brackets/master/data/matches.json").then(function(data, status, jqXHR) {
         matches = data["matches"];
         if (--dataCount === 0) setupPage();
     });
-    $.getJSON("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/data/bomb-templates.json").then(function(data, status, jqXHR) {
+    $.getJSON("https://raw.githubusercontent.com/elias5891/KTANELeagueSeason2Brackets/master/data/bomb-templates.json").then(function(data, status, jqXHR) {
         bombTemplates = data["bomb-templates"];
         if (--dataCount === 0) setupPage();
     });
