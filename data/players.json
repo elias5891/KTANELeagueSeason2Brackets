@@ -1,31 +1,85 @@
 {
-    "players": [
+  "players": [
+    {
+      "name": "Grunkle Squeaky",
+      "discord": "Grunkle Squeaky#0001",
+      "teams": null,
+      "categories": [
+        "ModdedEFM"
+      ],
+      "eliminated-categories": [],
+      "modded-modules": [
+        "3D Tunnels",
+        "Battleship",
+        "Blind Maze",
+        "Color Decoding",
+        "Hexamaze",
+        "Hieroglyphics",
+        "Know Your Way",
+        "Masyu",
+        "Matchematics",
+        "Number Pad",
+        "Pattern Cube",
+        "Qwirkle",
+        "Rapid Buttons",
+        "TetraVex",
+        "X01"
+      ],
+      "vetoed-modules": null
+    },
         {
-            "name": "Grunkle Squeaky",
-            "discord": "Grunkle Squeaky#0001",
-            "teams": null,
-            "categories": [
-                "ModdedEFM"
-            ],
-            "eliminated-categories": [],
-            "modded-modules": [
-                "3D Tunnels",
-                "Battleship",
-                "Blind Maze",
-                "Color Decoding",
-                "Hexamaze",
-                "Hieroglyphics",
-                "Know Your Way",
-                "Masyu",
-                "Matchematics",
-                "Number Pad",
-                "Pattern Cube",
-                "Qwirkle",
-                "Rapid Buttons",
-                "TetraVex",
-                "X01"
-            ],
-            "vetoed-modules": null
-        }
-    ]
+      "name": "Crazy Cool Caleb",
+      "discord": "Crazy Cool Caleb#5765",
+      "teams": null,
+      "categories": [
+        "ModdedEFM"
+      ],
+      "eliminated-categories": [],
+      "modded-modules": [
+        "Bartending",
+        "Kanji",
+        "Lightspeed",
+        "Maze3",
+        "Only Connect",
+        "Roman Art",
+        "Rubik's Clock",
+        "S.E.T.",
+        "Safety Square",
+        "Scripting",
+        "Simon's Stages",
+        "Skyrim",
+        "Tennis",
+        "Turtle Robot",
+        "Waste Management"
+      ],
+      "vetoed-modules": null
+    },
+        {
+      "name": "weird",
+      "discord": "weird#7438",
+      "teams": null,
+      "categories": [
+        "ModdedEFM"
+      ],
+      "eliminated-categories": [],
+      "modded-modules": [
+        "1D Maze",
+        "64",
+        "Corners",
+        "Digital Dials",
+        "Flags",
+        "Functions",
+        "Loopover",
+        "Module Maze",
+        "Not Wiresword",
+        "Pictionary",
+        "Pie",
+        "Siffron",
+        "Simon's Stages",
+        "The Block",
+        "T-Words"
+      ],
+      "vetoed-modules": null
+    }
+  ]
 }
