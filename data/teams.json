@@ -14,9 +14,7 @@
             "modded-modules": [
                 "egg"
             ],
-            "vetoed-modules": {
-                null
-            }
+            "vetoed-modules": null
         }
     ]
 }
