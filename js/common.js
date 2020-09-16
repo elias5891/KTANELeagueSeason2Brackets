@@ -240,7 +240,7 @@ $(function(){
     */
 
     var dataCount = 5;
-    $.getJSON("https://raw.githubusercontent.com/KTANECommunity/KTANELeagueSeason2Brackets/master/data/players.json").then(function(data, status, jqXHR) {
+    $.getJSON("https://raw.githubusercontent.com/elias5891/KTANELeagueSeason2Brackets/master/data/players.json").then(function(data, status, jqXHR) {
         players = data["players"];
         if (--dataCount === 0) setupPage();
     });
