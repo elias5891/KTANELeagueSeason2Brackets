@@ -12,7 +12,16 @@
                 "elias5891"
             ],
             "modded-modules": [
-                "egg"
+                "Atbash Cipher",
+                "Blockbusters",
+                "Boolean Venn Diagram",
+                "Color Addition",
+                "Colored Switches",
+                "Forget It Not",
+                "Gridlock",
+                "Not Maze",
+                "Sueet Wall",
+                "Visual Impairment"
             ],
             "vetoed-modules": null
         }
